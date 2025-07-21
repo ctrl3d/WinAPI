@@ -1,5 +1,5 @@
 {
-  "name": "work.ctrl3d.winapi",
+  "name": "work.ctrl3d.os.winapi",
   "version": "0.1.0",
   "displayName": "WinAPI",
   "description": "A Unity package for accessing Windows API functions.",

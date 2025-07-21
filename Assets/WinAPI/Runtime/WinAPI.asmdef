@@ -1,6 +1,6 @@
 {
     "name": "WinAPI",
-    "rootNamespace": "work.ctrl3d",
+    "rootNamespace": "work.ctrl3d.OS",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
