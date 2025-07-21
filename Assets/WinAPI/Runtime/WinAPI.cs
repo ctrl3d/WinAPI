@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace work.ctrl3d.OS
+namespace work.ctrl3d
 {
     public static class WinAPI
     {
