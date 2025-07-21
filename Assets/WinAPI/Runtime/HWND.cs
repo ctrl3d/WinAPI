@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace work.ctrl3d.OS
+namespace work.ctrl3d
 {
     public struct HWND
     {
